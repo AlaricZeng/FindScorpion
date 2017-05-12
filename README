@@ -1,0 +1,5 @@
+This is a repo to achieve an O(n) time consuming algorithm to find
+the Scorpion(one node with degree one as the tail and connect to 
+another node with degree two as body and it connect to a n - 2 degree
+node as head. Another n - 3 nodes are abitrary connected) by giving an
+adjacencymatrix 
