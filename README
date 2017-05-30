@@ -1,5 +1,22 @@
+## Description
+
 This is a repo to achieve an O(n) time consuming algorithm to find
 the Scorpion(one node with degree one as the tail and connect to 
 another node with degree two as body and it connect to a n - 2 degree
 node as head. Another n - 3 nodes are abitrary connected) by giving an
 adjacencymatrix 
+
+## How to use
+
+First, click the node button and click anywhere in the white board to add some nodes
+
+Then, you can add link between two nodes. To add a link, you need first click one node and click another node then there
+would show one link
+
+You can add node and link whenever you like, there is no force order
+
+After you finished construction, you can click _Get AdjacencyMatrix_ button to see the adjacency matrix or directly click
+_Find Scorpion_ to see the result
+
+If there is a scorpion, it will use three different colors to represent head, body and tail. If there isn't it will alart that
+there isn't exit
